@@ -1,0 +1,12 @@
+{
+     "name": "Xiasam",
+     "token": "your_token_here",
+     "prefix": "x!",
+     "heroku": true,
+     "debug": {
+          "is_debug": true,
+          "debug_prefix": "!",
+          "debug_token": "your_test_token",
+          "debugger": "discli_debugger"
+     }
+}
